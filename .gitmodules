@@ -2,6 +2,3 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "penPHcure"]
-	path = penPHcure
-	url = https://github.com/a-beretta/penphcure
